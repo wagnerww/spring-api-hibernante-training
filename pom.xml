@@ -8,11 +8,11 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wagnerww</groupId>
-	<artifactId>api-training</artifactId>
+	<groupId>com.algaworks</groupId>
+	<artifactId>algafood-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-training</name>
-	<description>Demo project for Spring Boot</description>
+	<name>algafood-api</name>
+	<description>API de delivery de comida</description>
 
 	<properties>
 		<java.version>12</java.version>
